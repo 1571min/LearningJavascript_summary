@@ -1,6 +1,10 @@
-function getSentence([a,b,c]) {
-    return a+b+c;
+const o ={
+  name: "Wallace",
+  bark: function() {return "Woof!";}
 }
 
-
-console.log(getSentence(['a',2,3]))
+//es6에서 추가된 문법
+const o = {
+  name: "Wallace",
+  bark() {return "Woof!";}
+}

@@ -7,13 +7,26 @@
 
 ### 목차
 - part1
-    - chapter 1. 첫번째 어플리케이션 
+    - [chapter 1. 첫번째 어플리케이션](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter1/main.js)
     - chapter 2. 자바스크립트 개발 도구
     - chapter 3. 리터럴과 변수, 상수, 데이터 타입
+      - [3_1](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter3/chapter3_1.js)
+      - [3_2](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter3/chapter3_2object.js)
     - chapter 4. 제어문
+      - [4_1](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter4/chapter4_crowngame.js)
     - chapter 5. 표현식과 연산자
+      - [5_1](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter5/chapter5_1.js)
+      - [5_5](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter5/chapter5_5.js)
+      - [5_9](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter5/chapter5_9.js)
 - part2
     - chapter 6. 함수
+      - [6_1](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter6/1.js)
+      - [6_3](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter6/3.js)
+      - [6_4](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter6/4.js)
+      - [6_5](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter6/5.js)
+      - [6_6](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter6/6.js)
+      - [6_7](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter6/7.js)
+      - [6_8](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter6/8.js)
     - chapter 7. 스코프
     - chapter 8. 배열과 배열처리
     - chapter 9. 객체와 객체지향 프로그래밍
