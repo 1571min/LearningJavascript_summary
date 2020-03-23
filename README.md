@@ -36,6 +36,8 @@
     - [7_6](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter7/6.js)
     - [7_7](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter7/7.js)
   - chapter 8. 배열과 배열처리
+    - [8_2](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter8/2.js)
+    - [8_4](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter8/4.js)
   - chapter 9. 객체와 객체지향 프로그래밍
   - chapter 10. 맵과 셋
 - part3
