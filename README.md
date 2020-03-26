@@ -39,6 +39,8 @@
     - [8_2](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter8/2.js)
     - [8_4](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter8/4.js)
   - chapter 9. 객체와 객체지향 프로그래밍
+    - [9_2](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter9/2.js)
+    - [9_4](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter9/4.js)
   - chapter 10. 맵과 셋
 - part3
   - chapter 11. 예외와 에러 처리
