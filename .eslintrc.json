@@ -11,6 +11,7 @@
     "no-undef": "off",
     "no-bitwise": "off",
     "prefer-const": "off",
-    "no-plusplus": "off"
+    "no-plusplus": "off",
+    "max-class"
   }
 }
