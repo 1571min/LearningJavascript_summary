@@ -42,6 +42,8 @@
     - [9_2](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter9/2.js)
     - [9_4](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter9/4.js)
   - chapter 10. 맵과 셋
+    - [10_1](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter10/1.js)
+    - [10_2](https://github.com/1571min/LearningJavascript_summary/blob/master/chapter10/2.js)
 - part3
   - chapter 11. 예외와 에러 처리
   - chapter 12. 이터레이터와 제너레이터
